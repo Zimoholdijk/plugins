@@ -1,0 +1,17 @@
+{
+  "name": "zimoholdijk",
+  "description": "Zimoholdijk's Claude Code plugins",
+  "owner": { "name": "Zimoholdijk", "email": "hello@zimoholdijk.com" },
+  "plugins": [
+    {
+      "name": "plan-first",
+      "description": "PRD-first development workflow with testing built in: PRDs, phased plans, multi-lens plan and code reviews, research, implementation tracking, e2e tests and doc audits.",
+      "source": { "source": "github", "repo": "Zimoholdijk/plan-first-development" }
+    },
+    {
+      "name": "collapse-diffs",
+      "description": "Hides the diff under successful Edit and Write tool rows.",
+      "source": { "source": "github", "repo": "Zimoholdijk/collapse-diffs" }
+    }
+  ]
+}
