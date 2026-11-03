@@ -1,17 +1,34 @@
 {
   "name": "zimoholdijk",
   "description": "Zimoholdijk's Claude Code plugins",
-  "owner": { "name": "Zimoholdijk", "email": "hello@zimoholdijk.com" },
+  "owner": {
+    "name": "Zimoholdijk",
+    "email": "hello@zimoholdijk.com"
+  },
   "plugins": [
     {
       "name": "plan-first",
       "description": "PRD-first development workflow with testing built in: PRDs, phased plans, multi-lens plan and code reviews, research, implementation tracking, e2e tests and doc audits.",
-      "source": { "source": "url", "url": "https://github.com/Zimoholdijk/plan-first-development.git" }
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Zimoholdijk/plan-first-development.git"
+      }
     },
     {
       "name": "collapse-diffs",
       "description": "Hides the diff under successful Edit and Write tool rows.",
-      "source": { "source": "url", "url": "https://github.com/Zimoholdijk/collapse-diffs.git" }
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Zimoholdijk/collapse-diffs.git"
+      }
+    },
+    {
+      "name": "zimo-freelance-docs",
+      "description": "Client documents for freelance work: scoping documents, debriefs, ballparks, quotations and a signable A4 proposal, generated from call transcripts, emails and research.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Zimoholdijk/zimo-freelance-docs.git"
+      }
     }
   ]
 }
