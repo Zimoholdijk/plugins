@@ -21,14 +21,6 @@
         "source": "url",
         "url": "https://github.com/Zimoholdijk/collapse-diffs.git"
       }
-    },
-    {
-      "name": "zimo-freelance-docs",
-      "description": "Client documents for freelance work: scoping documents, debriefs, ballparks, quotations and a signable A4 proposal, generated from call transcripts, emails and research.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/Zimoholdijk/zimo-freelance-docs.git"
-      }
     }
   ]
 }
